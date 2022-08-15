@@ -31,5 +31,4 @@ public class FindLoopTest {
         int expected = 2;
         assertThat(result).isEqualTo(expected);
     }
-
 }
