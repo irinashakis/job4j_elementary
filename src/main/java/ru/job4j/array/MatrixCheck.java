@@ -42,6 +42,6 @@ public class MatrixCheck {
                 }
             }
         }
-            return result;
+        return result;
     }
 }
